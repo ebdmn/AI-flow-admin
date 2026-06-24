@@ -1,9 +1,6 @@
 # 项目文档（README.md 保留，其余不推送）
-PROJECT.md
 TOKENS_GUIDE.md
-shadcn-tailwind-使用文档.md
 Tailwind-*.md
-Tailwind_*.md
 
 # 依赖
 node_modules/
